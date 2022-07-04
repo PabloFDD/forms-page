@@ -11,6 +11,7 @@
 main{
     background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
     height: 100vh;
+    min-width: 100vw;
 }
 
 .box{
@@ -86,4 +87,25 @@ form input[type="submit"]{
     border-radius: 12px;
     background: #10041c;
     color: #D8DCF0;
+}
+
+@media only screen and (max-width: 940px){
+    .container, h1, .box{
+        width: 100vw;
+    }
+
+    h1{
+        padding: 1em 0;
+        margin: 0 0 1em 0;
+    }
+}
+
+@media only screen and (max-width: 450px){
+    h1{
+        font-size: 2rem;
+    }
+
+    .fields label{
+        font-size: 12px;
+    }
 }
