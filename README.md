@@ -6,4 +6,4 @@ ps: Just a simple sign up page using forms.
 
 # Preview
 
-![alt text]("https://imgur.com/a/OfNw2mk")
+![page preview](https://github.com/PabloFDD/forms-page/blob/main/assets/preview.png?raw=true)
