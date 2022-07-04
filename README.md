@@ -6,4 +6,4 @@ ps: Just a simple sign up page using forms.
 
 # Preview
 
-<img src=".assets/preview.jpg" alt="forms preview">
+<img src=".assets/preview.png" alt="forms preview">
